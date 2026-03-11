@@ -31,4 +31,6 @@ int main() {
 }
 // Header sesuai gambar
     cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" << endl
-    
+
+  // Memanggil prosedur masukan
+    masukanData(berat, tinggi);
